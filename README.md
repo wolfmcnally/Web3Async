@@ -1,3 +1,3 @@
 # Web3Async
 
-A description of this package.
+An async/await overlay for Web3 APIs. Work in Progress.
